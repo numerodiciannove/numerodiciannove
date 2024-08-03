@@ -4,9 +4,12 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=numerodiciannove&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <h3>:fire: My Stats :</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=numerodiciannove&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+</div>
 
 <!--
 **numerodiciannove/numerodiciannove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
