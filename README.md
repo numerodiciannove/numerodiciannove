@@ -10,12 +10,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numerodiciannove&layout=compact&langs_count=10" alt="Top Languages"/>
-  </a>
-</div>
-
 
 <!--
 **numerodiciannove/numerodiciannove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
