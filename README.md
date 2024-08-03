@@ -2,6 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5zemV6NzVtM2J6OWthZzdtcm5kcWEwYzBscnZ6bWg0djF6dGVhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Qp0gfQ45FgA0/giphy.gif" width="600"/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?numerodiciannove&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **numerodiciannove/numerodiciannove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
