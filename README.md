@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=numerodiciannove&theme=dark&background=000000)](https://git.io/streak-stats)
+  <p> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=numerodiciannove&theme=dark&background=000000)](https://git.io/streak-stats) </p>
 </div>
 
 <!--
