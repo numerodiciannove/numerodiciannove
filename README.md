@@ -16,7 +16,6 @@
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **numerodiciannove/numerodiciannove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
